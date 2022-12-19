@@ -2,7 +2,7 @@
 - 👀 I’m interested in using machine learning algorithms to find patterns from data, especially, biomedical multi-omics data. 
   - I’m interested in comparative genomics analysis and do irregular DevOps tasks as well.
 - 🌱 I’m currently learning a deep learning framework and its application to several data types.
-- 📫 How to reach me: @bayjan at twitter and Google Scholar at: https://scholar.google.com/citations?user=UOg0jLgAAAAJ&hl=en
+- 📫 How to reach me: at GitLab https://gitlab.com/bayjan, at twitter @bayjan and at Google Scholar https://scholar.google.com/citations?user=UOg0jLgAAAAJ&hl=en
 
 Bioinformatician turned Data Scientist
 
